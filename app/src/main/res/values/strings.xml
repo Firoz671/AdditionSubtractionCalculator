@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zibon</string>
+    <string name="editText1">Enter number1</string>
+    <string name="editText2">Enter number2</string>
+    <string name="add">Sum</string>
+    <string name="sub">Sub</string>
+
+</resources>
